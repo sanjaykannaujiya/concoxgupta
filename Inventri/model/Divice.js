@@ -31,4 +31,4 @@ const deviceSchema =new Schema({
       
      
 })
-module.exports=mongoose.model('Device',deviceSchema)
+module.exports=mongoose.model('Deviced',deviceSchema)
